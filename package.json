@@ -1,0 +1,16 @@
+{
+  "name": "curso-javascript-backend",
+  "version": "1.0.0",
+  "description": "Curso do SalvatoreAcademy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
